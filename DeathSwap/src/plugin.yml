@@ -1,0 +1,9 @@
+name: DeathSwap
+version: 1.0
+main: deathswap.Main
+
+commands:
+  dswap:
+    description: /dswap [player] to start game with you and [player]
+  endswap:
+    description: /endswap ends Death Swap
